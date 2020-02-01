@@ -1,0 +1,213 @@
+# github.com/BurntSushi/toml v0.3.1
+github.com/BurntSushi/toml
+# github.com/CloudyKit/fastprinter v0.0.0-20170127035650-74b38d55f37a
+github.com/CloudyKit/fastprinter
+# github.com/CloudyKit/jet v2.1.3-0.20180809161101-62edd43e4f88+incompatible
+github.com/CloudyKit/jet
+# github.com/Joker/jade v1.0.1-0.20190614124447-d475f43051e7
+github.com/Joker/jade
+# github.com/Shopify/goreferrer v0.0.0-20181106222321-ec9c9a553398
+github.com/Shopify/goreferrer
+# github.com/aymerick/raymond v2.0.3-0.20180322193309-b565731e1464+incompatible
+github.com/aymerick/raymond
+github.com/aymerick/raymond/ast
+github.com/aymerick/raymond/lexer
+github.com/aymerick/raymond/parser
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/eknkc/amber v0.0.0-20171010120322-cdade1c07385
+github.com/eknkc/amber
+github.com/eknkc/amber/parser
+# github.com/fatih/structs v1.1.0
+github.com/fatih/structs
+# github.com/flosch/pongo2 v0.0.0-20190707114632-bbf5a6c351f4
+github.com/flosch/pongo2
+# github.com/garyburd/redigo v1.6.0
+github.com/garyburd/redigo/internal
+github.com/garyburd/redigo/redis
+# github.com/go-playground/locales v0.13.0
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+github.com/go-playground/locales/zh
+# github.com/go-playground/universal-translator v0.17.0
+github.com/go-playground/universal-translator
+# github.com/go-xorm/xorm v0.7.9
+github.com/go-xorm/xorm
+# github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+github.com/gobwas/httphead
+# github.com/gobwas/pool v0.2.0
+github.com/gobwas/pool
+github.com/gobwas/pool/internal/pmath
+github.com/gobwas/pool/pbufio
+github.com/gobwas/pool/pbytes
+# github.com/gobwas/ws v1.0.2
+github.com/gobwas/ws
+github.com/gobwas/ws/wsutil
+# github.com/gomodule/redigo v1.7.1-0.20190724094224-574c33c3df38
+github.com/gomodule/redigo/redis
+# github.com/gorilla/schema v1.1.0
+github.com/gorilla/schema
+# github.com/gorilla/websocket v1.4.1
+github.com/gorilla/websocket
+# github.com/iris-contrib/blackfriday v2.0.0+incompatible
+github.com/iris-contrib/blackfriday
+# github.com/iris-contrib/formBinder v5.0.0+incompatible
+github.com/iris-contrib/formBinder
+# github.com/iris-contrib/go.uuid v2.0.0+incompatible
+github.com/iris-contrib/go.uuid
+# github.com/iris-contrib/middleware/cors v0.0.0-20191219204441-78279b78a367
+github.com/iris-contrib/middleware/cors
+# github.com/iris-contrib/middleware/jwt v0.0.0-20191219204441-78279b78a367
+github.com/iris-contrib/middleware/jwt
+# github.com/iris-contrib/pongo2 v0.0.1
+github.com/iris-contrib/pongo2
+# github.com/iris-contrib/schema v0.0.1
+github.com/iris-contrib/schema
+# github.com/json-iterator/go v1.1.8
+github.com/json-iterator/go
+# github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5
+github.com/juju/errors
+# github.com/kataras/golog v0.0.10
+github.com/kataras/golog
+# github.com/kataras/iris v11.1.1+incompatible
+github.com/kataras/iris
+github.com/kataras/iris/cache
+github.com/kataras/iris/cache/cfg
+github.com/kataras/iris/cache/client
+github.com/kataras/iris/cache/client/rule
+github.com/kataras/iris/cache/entry
+github.com/kataras/iris/cache/ruleset
+github.com/kataras/iris/cache/uri
+github.com/kataras/iris/context
+github.com/kataras/iris/core/errors
+github.com/kataras/iris/core/handlerconv
+github.com/kataras/iris/core/host
+github.com/kataras/iris/core/memstore
+github.com/kataras/iris/core/netutil
+github.com/kataras/iris/core/router
+github.com/kataras/iris/macro
+github.com/kataras/iris/macro/handler
+github.com/kataras/iris/macro/interpreter/ast
+github.com/kataras/iris/macro/interpreter/lexer
+github.com/kataras/iris/macro/interpreter/parser
+github.com/kataras/iris/macro/interpreter/token
+github.com/kataras/iris/middleware/logger
+github.com/kataras/iris/middleware/recover
+github.com/kataras/iris/view
+# github.com/kataras/iris/v12 v12.1.2
+github.com/kataras/iris/v12
+github.com/kataras/iris/v12/cache
+github.com/kataras/iris/v12/cache/cfg
+github.com/kataras/iris/v12/cache/client
+github.com/kataras/iris/v12/cache/client/rule
+github.com/kataras/iris/v12/cache/entry
+github.com/kataras/iris/v12/cache/ruleset
+github.com/kataras/iris/v12/cache/uri
+github.com/kataras/iris/v12/context
+github.com/kataras/iris/v12/core/errgroup
+github.com/kataras/iris/v12/core/handlerconv
+github.com/kataras/iris/v12/core/host
+github.com/kataras/iris/v12/core/memstore
+github.com/kataras/iris/v12/core/netutil
+github.com/kataras/iris/v12/core/router
+github.com/kataras/iris/v12/hero
+github.com/kataras/iris/v12/hero/di
+github.com/kataras/iris/v12/i18n
+github.com/kataras/iris/v12/macro
+github.com/kataras/iris/v12/macro/handler
+github.com/kataras/iris/v12/macro/interpreter/ast
+github.com/kataras/iris/v12/macro/interpreter/lexer
+github.com/kataras/iris/v12/macro/interpreter/parser
+github.com/kataras/iris/v12/macro/interpreter/token
+github.com/kataras/iris/v12/middleware/logger
+github.com/kataras/iris/v12/middleware/recover
+github.com/kataras/iris/v12/mvc
+github.com/kataras/iris/v12/sessions
+github.com/kataras/iris/v12/sessions/sessiondb/redis
+github.com/kataras/iris/v12/view
+github.com/kataras/iris/v12/websocket
+# github.com/kataras/neffos v0.0.12
+github.com/kataras/neffos
+github.com/kataras/neffos/gobwas
+github.com/kataras/neffos/gorilla
+github.com/kataras/neffos/stackexchange/nats
+github.com/kataras/neffos/stackexchange/redis
+# github.com/kataras/pio v0.0.2
+github.com/kataras/pio
+github.com/kataras/pio/terminal
+# github.com/kataras/sitemap v0.0.5
+github.com/kataras/sitemap
+# github.com/klauspost/compress v1.9.4
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+# github.com/leodido/go-urn v1.2.0
+github.com/leodido/go-urn
+# github.com/lib/pq v1.3.0
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mediocregopher/radix/v3 v3.3.0
+github.com/mediocregopher/radix/v3
+github.com/mediocregopher/radix/v3/internal/bytesutil
+github.com/mediocregopher/radix/v3/resp
+github.com/mediocregopher/radix/v3/resp/resp2
+github.com/mediocregopher/radix/v3/trace
+# github.com/microcosm-cc/bluemonday v1.0.2
+github.com/microcosm-cc/bluemonday
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+github.com/modern-go/reflect2
+# github.com/nats-io/nats.go v1.8.1
+github.com/nats-io/nats.go
+github.com/nats-io/nats.go/encoders/builtin
+github.com/nats-io/nats.go/util
+# github.com/nats-io/nkeys v0.0.2
+github.com/nats-io/nkeys
+# github.com/nats-io/nuid v1.0.1
+github.com/nats-io/nuid
+# github.com/rs/zerolog v1.17.2
+github.com/rs/zerolog
+github.com/rs/zerolog/internal/cbor
+github.com/rs/zerolog/internal/json
+github.com/rs/zerolog/log
+# github.com/ryanuber/columnize v2.1.0+incompatible
+github.com/ryanuber/columnize
+# github.com/schollz/closestmatch v2.1.0+incompatible
+github.com/schollz/closestmatch
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
+golang.org/x/crypto/acme
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/idna
+golang.org/x/net/publicsuffix
+# golang.org/x/sys v0.0.0-20190626221950-04f50cda93cb
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.2
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# gopkg.in/go-playground/validator.v9 v9.31.0
+gopkg.in/go-playground/validator.v9
+gopkg.in/go-playground/validator.v9/translations/zh
+# gopkg.in/ini.v1 v1.51.0
+gopkg.in/ini.v1
+# gopkg.in/yaml.v2 v2.2.7
+gopkg.in/yaml.v2
+# xorm.io/builder v0.3.6
+xorm.io/builder
+# xorm.io/core v0.7.2-0.20190928055935-90aeac8d08eb
+xorm.io/core

@@ -1,0 +1,22 @@
+{
+  "app_name": "demo",
+  "port": "8080",
+  "static_path": "/manage/static",
+  "mode": "dev",
+  "data_base": {
+    "drive": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "user": "postgres",
+    "pwd": "root",
+    "database": "postgres"
+  },
+  "redis": {
+    "net_work": "tcp",
+    "addr": "127.0.0.1",
+    "port": "6379",
+    "password": "",
+    "prefix": "",
+    "db": 0
+  }
+}
