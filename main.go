@@ -18,7 +18,7 @@ func main() {
 	app := newApp()
 
 	//应用App设置
-	configAtion(app)
+	configAction(app)
 
 	//路由设置
 	mvcHandle(app)
@@ -62,7 +62,7 @@ func mvcHandle(app *iris.Application) {
 	//设置session的同步位置为redis
 
 	sessManager := sessions.New(sessions.Config{
-		Cookie:  "sessioncookie",
+		Cookie:  "sessionCookie",
 		Expires: 24 * time.Hour,
 	})
 	sessManager.UseDatabase(redis)
@@ -80,7 +80,7 @@ func mvcHandle(app *iris.Application) {
 /**
  * 项目设置
  */
-func configAtion(app *iris.Application) {
+func configAction(app *iris.Application) {
 
 	//配置 字符编码
 	app.Configure(iris.WithConfiguration(iris.Configuration{
